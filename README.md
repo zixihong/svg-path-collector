@@ -1,4 +1,5 @@
 **svg-path-collector** 
+
 🎯 A lightweight utility tool for visually identifying and collecting SVG path indices. Perfect for developers working on interactive SVG visualizations who need to map specific elements for user interaction.
 Description
 Ever needed to make specific parts of an SVG interactive but struggled to identify which paths correspond to what? svg-path-collector provides a visual interface to easily identify and collect path indices from any SVG file:
